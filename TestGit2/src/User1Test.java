@@ -6,6 +6,8 @@ public class User1Test {
            System.out.println("Hello user1&2");
 
            System.out.println("addStr2");
+           
+           System.out.println("add str 3");
     }
 
 }
