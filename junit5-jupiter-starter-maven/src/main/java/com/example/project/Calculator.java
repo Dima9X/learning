@@ -11,7 +11,7 @@
 package com.example.project;
 
 public class Calculator {
-
+    //Add method
 	public int add(int a, int b) {
 		return a + b;
 	}
